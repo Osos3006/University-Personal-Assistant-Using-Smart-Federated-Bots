@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "megaagent-pain",
+  "private_key_id": "c23504eb294302da1246b58cf35a260add1bd4bd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCw8us/cdcM4u9a\n2lPP4GcZqxZByGNkYQtCN8MDfULYZBUxahN+8EJNyw721SdQkIsZg3yTMwq6+vcO\nAB3SpEJtIUPrM1ueNYTsj83gzI2HKtp9d3VWBEH2BpghGRdx6N6jAGVBmVcGMMgl\ns8tZjwGYxGteytrcdkme0n9g5w+twBoYPKXm5g4JJH9xUY96jlgjOAFtoa518cwF\nYxzNDyDWYB7pSb0r8dg/DCCvx780ahJuhv5MGSEB8NvwruYNSE56FTqJimoFbCIu\nzuWaEs5EU7dBfaSRxNxNTU6B5t1/ETd/flbc7W9RTi8sISkTMYLKKRevwuiKsjZ4\n1iyZVOchAgMBAAECggEACKzmRAJrs9vp9os6/fd/coqY8SF3Hwgjfkv/1YtWBEg2\n4kj0Ov5iT9BXc9pcPrbRfQ8dY9WmLmfoxjDTBX1sbM+LVgwa7zEqStNbmYyJ2VFM\nbEeXsv+LMNneqkvBwqHTTYxSypIvKjRo0bFklEfewQvLRFbff1zUy/K/0ENP2Vm7\nV92XwLc7nZwNRjxZT7l6OIwYGiSo5svnBIU4Auc24aH64HFfHS/5wL0hTX+3xw6y\nzlCaEWfAq8GsiviDhDVe6dC4lbnwL+3qzeqkJWvB2Y3VcxaMZM0t6oGDGBMloBiw\noAK/pUVl6blCLp4di4qxrV2Q4DTyHBU5LXfKrpcD2QKBgQDzEvWpxLosufWfrOjE\nMvMhXLksiSQrpH6FYIcvOsN+DxhCjORR3XMKY9YuZ8ra7ZlOqmYwdWJ9zh7yev7k\n5MmLX6jQxcKhTmNv8RqzHf5J1thfwfy066//IDS0mP9ftKtsFiYhHvqT45Xspoc6\n1LU06oW5tqRRvyHKc4HBDRHhqQKBgQC6W8cR8Hn0EKLgqRn7yO7JGm0Ndibh+zmB\n/Jw6DEwIDiavo/kE6/3/SVGHqwzGQfotAOBZCYeDwrnqmntpSIhkk3ddv45OhEsx\n3u/bhDRdcVJFHBdwth6vsBrBHztuWr2Jd0cMPZoBwG1D1h4ED+CqP/vI/gsnR7+H\nJO6+wY60uQKBgHZGZnT5/aEfxy2wA/7bz8QPCydpf8kgnFOn+X94t4ESNTrEtaBE\nAeMvWxtvc5x9elh1v42awJb4gcR5JqgXzx3bKRiU8bRtoSLqDZTUZlRljxlhGeaq\nvBOHBz5NKA3YqoTIbjs1iLYHSn9BNJHiyF18NB9+iIwiVX3eIGfgRTApAoGBAIto\nkLjozjI4J8AsgBWMsKScMiw50MiIaPLGiBAcltwHygTmgyidabsJnAYDfWDqhj4Y\nQ7wXltqIVxAbVGrkKbQjZM4quEggSygZgBEVCx9D4Kl2ZEqa0sXW1YzW0lyxYMxv\nACU2B/l7e8GdcYLUZdq2VqJ6+Nj/oVV12Wu13A1xAoGBAJt3op4gXbIKboR3nghp\noaOYpsfpEzfnxpmFfrZoLxOdaUJFZWIFrbydPYUjaiFF/7E91SWAUkYc6gj8IiUW\n4xnaHx1X/Yx0/dN91iQrIpMw/vjIODvqqSYapn1NpycrmwObbX1/XiuHlRF6jAc9\n6t9h30H4cQKMaqdVOOkbPE12\n-----END PRIVATE KEY-----\n",
+  "client_email": "megaagent@megaagent-pain.iam.gserviceaccount.com",
+  "client_id": "112269576100860710500",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/megaagent%40megaagent-pain.iam.gserviceaccount.com"
+}

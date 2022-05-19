@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1093179769847",
+    "project_id": "thesis-68624",
+    "storage_bucket": "thesis-68624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093179769847:android:51060b7ba1fa2584f864f2",
+        "android_client_info": {
+          "package_name": "com.example.thesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093179769847-litscsln72ch2nnfqmjmkeap527v4f62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thesis",
+            "certificate_hash": "879e9b0be67d771d6f650f247da13530abf5fcf4"
+          }
+        },
+        {
+          "client_id": "1093179769847-so9l37vshl5a8fu983vjo6kt9a9774mj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thesis",
+            "certificate_hash": "f999d88e577587ae0d975ec4a0bb5f411a105d41"
+          }
+        },
+        {
+          "client_id": "1093179769847-tpd3hpl5voi2u0tv12fl7fu7qmsc5v7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thesis",
+            "certificate_hash": "4010dcee6d55c55032cd7dac89ffd1a9442433f1"
+          }
+        },
+        {
+          "client_id": "1093179769847-2ahcii5kfatjk0jrcirq9h0ockmllt9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3EVdirUVK_hsvhqK2svnKK44D_-a_awQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093179769847-2ahcii5kfatjk0jrcirq9h0ockmllt9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
