@@ -14,7 +14,7 @@ under the supervision of: Dr. Sherif Aly & Dr. Cherif Salama
 
 ## Project Description 
 
-This repo represents the repo for thesis project titled "University Personal Assistant using smart federated bot". The repo represents the codebase for the Flutter application that represented the apparatus used for data collection in order to write the research paper. the project compares the implementation of 
+This repo represents the repo for thesis project titled "University Personal Assistant using smart federated bot". The repo represents the codebase for the Flutter application that represented the apparatus used for data collection in order to write the research paper. the project compares the implementation of a university personal assistant using both a single agent a bot federated system. the benefits of using federation were emphasized on as well. 
 
 ## Technology Stack 
 
